@@ -1,6 +1,5 @@
 ![Imersão Alura](imagem/projeto-imersao.png)
 
-
 **## Desvendando as Maiores Economias do Mundo: Um Guia Rápido **
 O que faz essa aplicação?
 Já se perguntou qual é o PIB da China ou como está a economia dos Estados Unidos? Com essa aplicação, você pode descobrir tudo isso com apenas alguns cliques!
@@ -27,13 +26,3 @@ Observação: Essa aplicação é um projeto simples e divertido para demonstrar
 Vamos explorar o mundo da economia juntos!
 
 #desenvolvimentoweb #javascript #html #css #economiamundial
-
-Dica: Para deixar o README ainda mais interessante, você pode adicionar capturas de tela da aplicação em funcionamento, um GIF animado demonstrando a pesquisa ou até mesmo um breve tutorial em vídeo.
-
-Gostou? Deixe um ⭐ para mostrar seu apoio!
-
-Comente abaixo se tiver alguma dúvida ou sugestão.
-
-Lembre-se: Adapte este README para o seu projeto específico, incluindo mais detalhes sobre as funcionalidades, desafios enfrentados e aprendizados durante o desenvolvimento.
-
-Divirta-se!
