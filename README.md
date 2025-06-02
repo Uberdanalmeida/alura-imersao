@@ -1,4 +1,4 @@
-![Imersão Alura](imagens/projeto-imersao.png)
+![Imersão Alura](imagens/alura-imersao.png)
 
 **## Desvendando as Maiores Economias do Mundo: Um Guia Rápido **
 O que faz essa aplicação?
